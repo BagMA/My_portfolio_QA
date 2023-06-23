@@ -13,4 +13,4 @@
 Тестировал мобильное приложение Яндекс Метро. При помощи ADB (Android Debug Bridge) и Android Studio снимал логи с реального смартфона. В Android Studio проводил тестирование приложения на эмуляции разных устройств и разных версий ОС Android.
 При тестировании API Яндекс Прилавок через Postman отправлял запросы методами POST, GET, PUT, DELETE в форматах JSON, XML. Познакомился со Swagger.
 # *layout testing*
-Провериk верстку на соответствие дизайну (разрешения для пк и моб указаны в дизайне): пропорции, отступы, цвета элементов и фона. [Макеты дизайна брал из Figma] (https://www.figma.com/file/OYgAHWaOe2ts4OdX0hBZ4J/Landing-Progressive?type=design&node-id=2356-77530&t=7wGV3f1WGS8nfszf-0), тестируемый [сайт](https://verstka-amedia.ru/progressive-anim/app/index.html ).
+Провериk верстку на соответствие дизайну (разрешения для пк и моб указаны в дизайне): пропорции, отступы, цвета элементов и фона. [Макеты дизайна брал из Figma](https://www.figma.com/file/OYgAHWaOe2ts4OdX0hBZ4J/Landing-Progressive?type=design&node-id=2356-77530&t=7wGV3f1WGS8nfszf-0), тестируемый [сайт](https://verstka-amedia.ru/progressive-anim/app/index.html ).
