@@ -13,6 +13,6 @@
 # *test task*
 Протестировал форму обратной связи на [сайте](https://dpg.gg/tester/?state=saadiyat_island&lang=en&finishes=standart&color=warm&colorPod=warm&vr=VR01&theme=dark&tower=1)  на соответствие макету. Обнаруженные баги занес в баг-репорт, оформил в excel. 
 # *layout testing*
-Провериk верстку на соответствие дизайну (разрешения для пк и моб указаны в дизайне): пропорции, отступы, цвета элементов и фона. [Макеты дизайна брал из Figma](https://www.figma.com/file/OYgAHWaOe2ts4OdX0hBZ4J/Landing-Progressive?type=design&node-id=2356-77530&t=7wGV3f1WGS8nfszf-0), тестируемый [сайт](https://verstka-amedia.ru/progressive-anim/app/index.html ).
+Проверил верстку на соответствие дизайну (разрешения для пк и моб указаны в дизайне): пропорции, отступы, цвета элементов и фона. [Макеты дизайна брал из Figma](https://www.figma.com/file/OYgAHWaOe2ts4OdX0hBZ4J/Landing-Progressive?type=design&node-id=2356-77530&t=7wGV3f1WGS8nfszf-0), тестируемый [сайт](https://verstka-amedia.ru/progressive-anim/app/index.html ).
 # *testCyberSecurityCenter*
 Проверил функциональность сайта mail.ru разделы "Тайна имени" и "Сонники". Самостоятельно составил тест-кейсы для проверки данных разделов. По найденным багам составил баг-репор.
